@@ -1,2 +1,2 @@
-# IBM_Neighborhoods_in_Toronto
-This is Segmenting and Clustering Neighborhoods in Toronto
+# Extracting and Visualizing Stock Data
+Extracting and Visualizing Stock Data using Web Scraping
