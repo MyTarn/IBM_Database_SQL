@@ -1,7 +1,7 @@
 # IBM Database and SQL
-This is Database and SQL Project (part of Coursera IBM Data Science Professional).
+This is the Database and SQL Project (part of Coursera IBM Data Science Professional).
 
-## Hands-on Assignment: Working on a real world dataset provided by the Chicago Data Portal
+## Hands-on Assignment: Working on a Real-World dataset provided by the Chicago Data Portal
 
 Instruction
 - Download the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided.
